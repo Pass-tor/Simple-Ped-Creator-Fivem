@@ -1,10 +1,23 @@
-# Simple-Ped-Creator-Fivem
+<p align="center">
+	<h1 align="center">
+		Simple-Ped-Creator-Fivem
+	</h1>
+	<h4 align="center">
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License: CC BY-NC-SA 4.0"></img></a>
+        &nbsp;
+		<a href="https://discord.gg/2Zfk6d6vHy"><img src="https://discordapp.com/api/guilds/891608460167364648/widget.png?style=shield"></img></a>
+	</h4>
+	<p align="center">
+		To Create Ped in Different Location
+	</p>
+    <p align="center">
+		<b>
+* Use this script to create ped that provide bikes   
+		</b> 
+	</p>
+</p>
 
-To Create Ped in Different Location
-
-## Description
-
-* Use this script to create ped that provide bikes 
+<br/>
 
 ## Getting Started
 
@@ -31,7 +44,3 @@ Contributors names and contact info
 ## Version History
 
     * Initial Release
-
-## License
-
-This project is licensed under the [Yakuza Development] License - see the LICENSE.md file for details
